@@ -1,12 +1,6 @@
 # Hello World!!!
 <p text-align="center">My name is João Gabriel, I'm 18 years old and I'm an Information Systems student at Unoesc University in Brazil. Welcome to my profile!</p>
 
-<table>
-  <a href="https://github.com/Jogasiba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jogasiba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogasiba&layout=compact&langs_count=6&theme=tokyonight"/>
-</table>
-
 # Skills
 <table>
   <h3>Programming Languages</h3>
